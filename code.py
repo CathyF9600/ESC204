@@ -1,6 +1,7 @@
 '''
 ESC204 2022W Widget Lab 1, Part 10
 Task: Blink the Pico's onboard LED.
+Author: Cathy Feng, Melanie Wang
 '''
 # Import libraries needed for blinking the LED
 import board
